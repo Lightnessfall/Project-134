@@ -1,0 +1,25 @@
+body{
+    background-image: url(background.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.heading
+{
+font-size: 40px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #number
+{
+font-size: 18px;
+margin-top: 15px;
+}
+canvas{
+    background-color: red;
+}
+#start{
+    width: 100px;
+    height: 50px;
+    font-size: 25px;
+}
